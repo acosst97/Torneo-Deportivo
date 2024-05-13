@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "664115037c441861c07a0bc0"
+  },
+  "nombre": "pierluigui collina",
+  "posicion": "Árbitro principal",
+  "edad": 40,
+  "nacionalidad": "Argentina",
+  "experiencia": 15,
+  "especializacion": "Árbitro de línea"
+},
+{
+  "_id": {
+    "$oid": "664115037c441861c07a0bc1"
+  },
+  "nombre": "Manuel González",
+  "posicion": "Árbitro asistente",
+  "edad": 35,
+  "nacionalidad": "España",
+  "experiencia": 10,
+  "especializacion": "Árbitro central"
+},
+{
+  "_id": {
+    "$oid": "664115037c441861c07a0bc2"
+  },
+  "nombre": "Carlos Ramirez",
+  "posicion": "Cuarto árbitro",
+  "edad": 38,
+  "nacionalidad": "México",
+  "experiencia": 12,
+  "especializacion": "Árbitro lateral"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6641387d7c441861c07a0c14"
+  },
+  "equipo": "Real Bogota",
+  "puntos": 70,
+  "partidos_jugados": 30,
+  "partidos_ganados": 22,
+  "partidos_empatados": 4,
+  "partidos_perdidos": 4,
+  "goles_a_favor": 65,
+  "goles_en_contra": 30,
+  "diferencia_goles": 35,
+  "posicion": 1
+},
+{
+  "_id": {
+    "$oid": "664139687c441861c07a0c1d"
+  },
+  "equipo": "deport los pros",
+  "puntos": 45,
+  "partidos_jugados": 29,
+  "partidos_ganados": 22,
+  "partidos_empatados": 4,
+  "partidos_perdidos": 4,
+  "goles_a_favor": 2,
+  "goles_en_contra": 30,
+  "diferencia_goles": 35,
+  "posicion": 3
+},
+{
+  "_id": {
+    "$oid": "6641399c7c441861c07a0c20"
+  },
+  "equipo": "pool fc",
+  "puntos": 50,
+  "partidos_jugados": 28,
+  "partidos_ganados": 22,
+  "partidos_empatados": 4,
+  "partidos_perdidos": 4,
+  "goles_a_favor": 1,
+  "goles_en_contra": 14,
+  "diferencia_goles": 35,
+  "posicion": 2
+}]

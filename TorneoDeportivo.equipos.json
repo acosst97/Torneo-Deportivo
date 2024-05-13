@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "664117287c441861c07a0bdc"
+  },
+  "id": "1",
+  "nombre": "Real Bogota",
+  "pais": "Colombia",
+  "cantidad_jugadores": 25,
+  "entrenador": "Zinedine Zidane",
+  "liga": "La Liga de barrio"
+},
+{
+  "_id": {
+    "$oid": "664117287c441861c07a0bdd"
+  },
+  "id": "2",
+  "nombre": "deport  los Pros",
+  "pais": "Colombia",
+  "cantidad_jugadores": 28,
+  "entrenador": "Ronald Koeman",
+  "liga": "La Liga de barrio "
+},
+{
+  "_id": {
+    "$oid": "664117287c441861c07a0bde"
+  },
+  "id": "3",
+  "nombre": "pool FC",
+  "pais": "Colombia",
+  "cantidad_jugadores": 26,
+  "entrenador": "Jurgen Klopp",
+  "liga": "La Liga de barrio"
+},
+{
+  "_id": {
+    "$oid": "664117287c441861c07a0bdf"
+  },
+  "id": "4",
+  "nombre": "deprotivo Tapitas",
+  "pais": "Colombia",
+  "cantidad_jugadores": 24,
+  "entrenador": "Flick",
+  "liga": "La Liga de barrio"
+}]

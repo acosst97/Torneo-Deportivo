@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66413c1f7c441861c07a0c2d"
+  },
+  "equipo_local": "pool Fc",
+  "equipo_visitante": "deport los pros",
+  "fecha": "2024-05-12T20:00:00Z",
+  "resultado": "3-1",
+  "estadio": "El campin"
+},
+{
+  "_id": {
+    "$oid": "66413c1f7c441861c07a0c2e"
+  },
+  "equipo_local": "real bogota",
+  "equipo_visitante": "deport los pros",
+  "fecha": "2024-05-12T20:00:00Z",
+  "resultado": "2-5",
+  "estadio": "atanasio"
+},
+{
+  "_id": {
+    "$oid": "66413c1f7c441861c07a0c2f"
+  },
+  "equipo_local": "real bogota",
+  "equipo_visitante": "pool Fc",
+  "fecha": "2024-05-12T20:00:00Z",
+  "resultado": "0-1",
+  "estadio": "atanasio"
+},
+{
+  "_id": {
+    "$oid": "66413c1f7c441861c07a0c30"
+  },
+  "equipo_local": "deport los pros",
+  "equipo_visitante": "pool Fc",
+  "fecha": "2024-05-12T20:00:00Z",
+  "resultado": "1-1",
+  "estadio": "Bogota"
+}]

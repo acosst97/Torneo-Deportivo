@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "664137467c441861c07a0bfb"
+  },
+  "nombre": "Zinedine Zidane",
+  "equipo": "Real Bogota",
+  "nacionalidad": "Colombia",
+  "experiencia": "10 años"
+},
+{
+  "_id": {
+    "$oid": "664137467c441861c07a0bfc"
+  },
+  "nombre": "Ronald Koeman",
+  "equipo": "deport los pros",
+  "nacionalidad": "Colombia",
+  "experiencia": "15 años"
+},
+{
+  "_id": {
+    "$oid": "664137467c441861c07a0bfd"
+  },
+  "nombre": "Jurgen Klopp",
+  "equipo": "pool FC",
+  "nacionalidad": "Colombia",
+  "experiencia": "20 años "
+}]

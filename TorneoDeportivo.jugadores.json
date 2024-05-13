@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c54"
+  },
+  "nombre": "Juan Gómez",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Centrocampista",
+  "edad": 28,
+  "altura": 175,
+  "peso": 70,
+  "numero_camiseta": 8
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c55"
+  },
+  "nombre": "Andrés Pérez",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Defensa",
+  "edad": 31,
+  "altura": 180,
+  "peso": 75,
+  "numero_camiseta": 4
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c56"
+  },
+  "nombre": "Carlos Muñoz",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Portero",
+  "edad": 29,
+  "altura": 185,
+  "peso": 80,
+  "numero_camiseta": 1
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c57"
+  },
+  "nombre": "Luis Rodríguez",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Delantero",
+  "edad": 27,
+  "altura": 172,
+  "peso": 73,
+  "numero_camiseta": 9
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c58"
+  },
+  "nombre": "Mario Gutiérrez",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Centrocampista",
+  "edad": 30,
+  "altura": 176,
+  "peso": 71,
+  "numero_camiseta": 7
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c59"
+  },
+  "nombre": "Santiago Torres",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Defensa",
+  "edad": 26,
+  "altura": 178,
+  "peso": 74,
+  "numero_camiseta": 5
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5a"
+  },
+  "nombre": "Javier Sánchez",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Portero",
+  "edad": 28,
+  "altura": 183,
+  "peso": 79,
+  "numero_camiseta": 1
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5b"
+  },
+  "nombre": "Diego López",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Delantero",
+  "edad": 29,
+  "altura": 170,
+  "peso": 72,
+  "numero_camiseta": 11
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5c"
+  },
+  "nombre": "Óscar Ramírez",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Centrocampista",
+  "edad": 31,
+  "altura": 177,
+  "peso": 75,
+  "numero_camiseta": 6
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5d"
+  },
+  "nombre": "Andrés Hernández",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Defensa",
+  "edad": 27,
+  "altura": 182,
+  "peso": 76,
+  "numero_camiseta": 3
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5e"
+  },
+  "nombre": "Miguel Díaz",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Portero",
+  "edad": 30,
+  "altura": 184,
+  "peso": 78,
+  "numero_camiseta": 1
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c5f"
+  },
+  "nombre": "Jorge Martínez",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Delantero",
+  "edad": 28,
+  "altura": 173,
+  "peso": 74,
+  "numero_camiseta": 9
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c60"
+  },
+  "nombre": "Roberto López",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Centrocampista",
+  "edad": 29,
+  "altura": 178,
+  "peso": 72,
+  "numero_camiseta": 7
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c61"
+  },
+  "nombre": "Mateo Gómez",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Defensa",
+  "edad": 26,
+  "altura": 180,
+  "peso": 77,
+  "numero_camiseta": 5
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c62"
+  },
+  "nombre": "Alejandro Sánchez",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Portero",
+  "edad": 27,
+  "altura": 185,
+  "peso": 80,
+  "numero_camiseta": 1
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c63"
+  },
+  "nombre": "Daniel López",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Delantero",
+  "edad": 29,
+  "altura": 171,
+  "peso": 73,
+  "numero_camiseta": 11
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c64"
+  },
+  "nombre": "Manuel Ramírez",
+  "equipo": "Real Bogotá",
+  "nacionalidad": "Colombiano",
+  "posicion": "Centrocampista",
+  "edad": 30,
+  "altura": 178,
+  "peso": 76,
+  "numero_camiseta": 6
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c65"
+  },
+  "nombre": "Cristian Hernández",
+  "equipo": "Deport Los Pros",
+  "nacionalidad": "Colombiano",
+  "posicion": "Defensa",
+  "edad": 28,
+  "altura": 183,
+  "peso": 78,
+  "numero_camiseta": 3
+},
+{
+  "_id": {
+    "$oid": "66414e6a7c441861c07a0c66"
+  },
+  "nombre": "Sergio Díaz",
+  "equipo": "Pool FC",
+  "nacionalidad": "Colombiano",
+  "posicion": "Portero",
+  "edad": 29,
+  "altura": 170,
+  "peso": 75,
+  "numero_camiseta": 1
+}]
