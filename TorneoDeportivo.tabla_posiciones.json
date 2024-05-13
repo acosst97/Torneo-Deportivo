@@ -42,4 +42,19 @@
   "goles_en_contra": 14,
   "diferencia_goles": 35,
   "posicion": 2
+},
+{
+  "_id": {
+    "$oid": "66416e7f7c441861c07a0cd4"
+  },
+  "equipo": "deportivo tapitas",
+  "puntos": 48,
+  "partidos_jugados": 30,
+  "partidos_ganados": 22,
+  "partidos_empatados": 4,
+  "partidos_perdidos": 4,
+  "goles_a_favor": 2,
+  "goles_en_contra": 30,
+  "diferencia_goles": 35,
+  "posicion": 4
 }]

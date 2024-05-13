@@ -24,4 +24,13 @@
   "equipo": "pool FC",
   "nacionalidad": "Colombia",
   "experiencia": "20 años "
+},
+{
+  "_id": {
+    "$oid": "66416ed07c441861c07a0cdb"
+  },
+  "nombre": "Iniesta",
+  "equipo": "Deportivo Tapitas",
+  "nacionalidad": "Colombia",
+  "experiencia": "10 años"
 }]
